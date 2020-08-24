@@ -31,12 +31,8 @@ jobs:
     - name: Restore NuGet Packages
       run: nuget restore ElasticSimpleLogger.sln
  
-    - name: Build and Publish
+    - name: Build 
       run: msbuild ElasticSimpleLogger.sln
- 
-    - name: Upload Artifact
-      uses: actions/upload-artifact@v1.0.0
-
 
     - name: Publish NuGet
     # You may pin to the exact commit or the version.
