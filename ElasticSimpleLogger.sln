@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSimpleLogger", "RPA.LoggerEK\ElasticSimpleLogger.csproj", "{6FAC5795-7952-4604-B171-BE89835C9E7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticSimpleLogger", "ElasticSimpleLogger\ElasticSimpleLogger.csproj", "{6FAC5795-7952-4604-B171-BE89835C9E7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.ElasticSimpleLogger", "UnitTestProject1\Test.ElasticSimpleLogger.csproj", "{C5C77D1C-B564-4A00-B644-5B55D147D7D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.ElasticSimpleLogger", "Test.ElasticSimpleLogger\Test.ElasticSimpleLogger.csproj", "{C5C77D1C-B564-4A00-B644-5B55D147D7D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
