@@ -60,7 +60,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RPA.LoggerEK\ElasticSimpleLogger.csproj">
+    <ProjectReference Include="..\ElasticSimpleLogger\ElasticSimpleLogger.csproj">
       <Project>{6fac5795-7952-4604-b171-be89835c9e7e}</Project>
       <Name>ElasticSimpleLogger</Name>
     </ProjectReference>
